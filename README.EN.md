@@ -1,4 +1,4 @@
-# [elixir-doc-pt-br][page]
+# [elixir-website-pt-br][page]
 
 [![README file in English][badge-readme-en]][readme-en]
 [![README file in Brazilian Portuguese][badge-readme-pt-br]][readme-pt-br]
@@ -7,7 +7,7 @@
 [![Contributors][badge-contributors]][contributors]
 [![GitHub Sponsors][badge-github-sponsors]][github-sponsors]
 
-Translation of the Elixir documentation into Brazilian Portuguese.
+Translation of the Elixir website into Brazilian Portuguese.
 
 ## Contributing
 
