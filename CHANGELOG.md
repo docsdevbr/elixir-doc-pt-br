@@ -1,5 +1,6 @@
 ---
-# Copyright (c) 2012–2026 The Elixir Team.
+# SPDX-FileCopyrightText: 2021 The Elixir Team.
+# SPDX-FileCopyrightText: 2012 Plataformatec.
 # Elixir and the Elixir logo are registered trademarks of The Elixir Team.
 #
 # SPDX-License-Identifier: Apache-2.0
@@ -11,11 +12,6 @@ source_url: https://github.com/elixir-lang/elixir/blob/main/CHANGELOG.md
 revision: 0df45fdba16e6ab8f59a30e9f0c1e281a24c7ef2
 status: ready
 ---
-
-<!--
-  SPDX-FileCopyrightText: 2021 The Elixir Team
-  SPDX-FileCopyrightText: 2012 Plataformatec
--->
 
 # Changelog do Elixir v1.20
 
