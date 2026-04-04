@@ -2,7 +2,7 @@
 
 [![Arquivo README em inglês][badge-readme-en]][readme-en]
 [![Arquivo README em português brasileiro][badge-readme-pt-br]][readme-pt-br]
-[![Licença: APACHE-2.0][badge-license]][license]
+[![Licença: Apache-2.0][badge-license]][license]
 [![Pessoas contribuidoras][badge-contributors]][contributors]
 [![GitHub Sponsors][badge-github-sponsors]][github-sponsors]
 
@@ -51,7 +51,7 @@ A obra original foi traduzida do inglês para o português brasileiro.
 
 [github-sponsors]: https://github.com/sponsors/docsdevbr
 
-[license]: LICENSE
+[license]: LICENSES/Apache-2.0.txt
 
 [page]: https://pt.docs.dev.br/tech/e/elixir/index.html
 

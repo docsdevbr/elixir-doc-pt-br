@@ -2,9 +2,10 @@
 # Copyright (c) 2012–2026 The Elixir Team.
 # Elixir and the Elixir logo are registered trademarks of The Elixir Team.
 #
+# SPDX-License-Identifier: Apache-2.0
 # Documentation licensed under the Apache License, Version 2.0.
 # The original work was translated from English into Brazilian Portuguese.
-# https://github.com/elixir-lang/elixir/blob/-/LICENSE
+# https://github.com/docsdevbr/elixir-website-pt-br/blob/-/LICENSES/Apache-2.0.txt
 
 source_url: https://github.com/elixir-lang/elixir/blob/main/CHANGELOG.md
 revision: 0df45fdba16e6ab8f59a30e9f0c1e281a24c7ef2
@@ -12,7 +13,6 @@ status: ready
 ---
 
 <!--
-  SPDX-License-Identifier: Apache-2.0
   SPDX-FileCopyrightText: 2021 The Elixir Team
   SPDX-FileCopyrightText: 2012 Plataformatec
 -->
