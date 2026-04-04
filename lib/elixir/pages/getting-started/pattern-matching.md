@@ -1,5 +1,5 @@
 ---
-# Copyright (c) 2012–2026 The Elixir Team.
+# SPDX-FileCopyrightText: 2021 The Elixir Team.
 # Elixir and the Elixir logo are registered trademarks of The Elixir Team.
 #
 # SPDX-License-Identifier: Apache-2.0
@@ -11,10 +11,6 @@ source_url: https://github.com/elixir-lang/elixir/blob/v1.19.5/lib/elixir/pages/
 revision: f9966230ee2aa1735847a115d62192b4fcd9d796
 status: ready
 ---
-
-<!--
-  SPDX-FileCopyrightText: 2021 The Elixir Team
--->
 
 # Correspondência de padrões
 

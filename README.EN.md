@@ -27,7 +27,7 @@ project.
 
 ## License
 
-Copyright (c) 2012–2026 The Elixir Team.<br/>
+Copyright (c) 2021 The Elixir Team.<br/>
 Elixir and the Elixir logo are registered trademarks of The Elixir Team.
 
 Documentation licensed under the [Apache License, Version 2.0][license].<br/>
