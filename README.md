@@ -1,4 +1,4 @@
-# [elixir-doc-pt-br][page]
+# [elixir-website-pt-br][page]
 
 [![Arquivo README em inglês][badge-readme-en]][readme-en]
 [![Arquivo README em português brasileiro][badge-readme-pt-br]][readme-pt-br]
@@ -7,7 +7,7 @@
 [![Pessoas contribuidoras][badge-contributors]][contributors]
 [![GitHub Sponsors][badge-github-sponsors]][github-sponsors]
 
-Tradução da documentação do Elixir para português brasileiro.
+Tradução do site do Elixir para português brasileiro.
 
 ## Contribuindo
 
