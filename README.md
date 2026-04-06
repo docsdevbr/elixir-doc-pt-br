@@ -38,7 +38,7 @@ A obra original foi traduzida do inglês para o português brasileiro.
 
 [badge-github-sponsors]: https://img.shields.io/github/sponsors/docsdevbr
 
-[badge-license]: https://img.shields.io/github/license/docsdevbr/elixir-doc-pt-br
+[badge-license]: https://img.shields.io/badge/license-Apache--2.0-blue
 
 [badge-readme-en]: https://img.shields.io/badge/lang-en-blue
 
